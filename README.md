@@ -1,7 +1,7 @@
 ## What the Hack Hackathon
 
 Updated by Laura Edell, Sr. Data Scientist | Microsoft MSUS CTO CSU Organization
-<br>Date: 10/15/2018
+<br>Date: 10/15/2018, 1/10/2019
 
 ####  Got Data? An Introduction to Using Spark on Azure Databricks
 
